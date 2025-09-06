@@ -1,4 +1,4 @@
-# In cryptography, encryption is the process of encoding messages in such a way that only authorized parties can 
+In cryptography, encryption is the process of encoding messages in such a way that only authorized parties can 
 read it. The amount of digital data created and shared via internet has been increasing every day. The number 
 of security attacks/threats has also increased due to the vulnerabilities in the network and software. In this 
 paper, a new data encryption and decryption method is proposed using ASCII values of characters in the 
